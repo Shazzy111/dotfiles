@@ -97,9 +97,9 @@ DOTFILES_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # dirname strips the filename, leaving the directory
 # cd + pwd gives us the absolute path (resolves any ../ or symlinks)
  
-GITHUB_USERNAME="your-github-username"    # ← change this
-GIT_EMAIL="your@email.com"               # ← change this
-GIT_NAME="Your Name"                     # ← change this
+GITHUB_USERNAME="Shazzy111"    # ← change this
+GIT_EMAIL="khososhahzeb@gmail.com"               # ← change this
+GIT_NAME="Shazzy111"                     # ← change this
  
 # =============================================================================
 # BANNER
