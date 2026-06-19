@@ -1,0 +1,9 @@
+# Secrets
+.secrets
+.env
+*.env
+
+# SSH keys
+.ssh/
+*.pem
+*.key
